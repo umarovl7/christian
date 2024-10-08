@@ -1,0 +1,147 @@
+.body{
+    font-family: "Poppins";
+}
+.container{
+    width: 1440px;
+    margin-left:  270px;
+}
+.portfolionav{
+    background-color: rgba(27, 28, 55, 1);
+    width: 1311px;
+    height: 72.11px;
+    border-radius: 14px;
+}
+.logo{
+    padding-top: 24px;
+    margin-left: 50px;
+    p{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        margin-top: -30px;
+        font-family: "Poppins";
+        color: rgba(255, 255, 255, 1);
+        font-size: 17.31px;
+        margin-left: 40px;
+
+    }
+}
+.text {
+    display: flex; 
+    justify-content: space-between; 
+    gap: 10px;
+    width: 285.35px;
+    height: 49.06px;
+    margin-top: -70px;
+    margin-left: 500px;
+}
+
+.text p {
+    font-family: "Poppins", sans-serif; 
+    color: rgba(255, 255, 255, 1);
+    font-size: 17.31px;
+
+  
+}
+.itext{
+    margin-top: 200px;
+}
+.itextite{
+    font-family: "Poppins";
+    font-size: 96px;
+    line-height: 100.8px;
+    width: 648px;
+    color: "Negro Lineal";
+}
+.itext-item{
+    font-family: "Poppins";
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 1);
+    width: 326px;
+    
+}
+.icontact{
+    width:  240px;
+    height: 68px;
+    border-radius: 16px;
+    background-color: rgba(178, 36, 239, 1);
+    border: none;
+    margin-top: 30px;
+    p{
+        font-family: "Poppins";
+        font-size: 24px;
+        line-height: 36px;
+        color: rgba(255, 255, 255, 1);
+        width: 158px;
+        height: 36px;
+        padding-left: 30px;
+        margin-top: 15px;
+    }
+ 
+
+ 
+}
+.vectorimg{
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 70px;
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.contactme{
+    margin-top: -30px;
+    width: 174.11px;
+    height: 43.31px;
+    background-color: rgba(117, 121, 255, 1);
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 1070px;
+
+   p{
+    font-family: "Poppins";
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 10px;
+   } 
+}
+.alluraimg{
+   margin-top: -800px;
+   margin-left: 500px;
+}
+.arrowimg{
+    margin-top: -100px;
+    margin-left: 300px;
+
+}
+.highimg{
+    margin-left: 320px;
+    margin-top: -500px;
+    position: absolute;
+ }
+ .elipseimg{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    margin-top: -550px;
+    margin-left: -300px;
+    
+ }
+ .elipimg{
+    margin-top: -20px;
+    margin-left: 1100px;
+    width: 300px;
+    height: 200px;
+ }
+ .patronimg{
+    position: absolute;
+    margin-top: -120px;
+    margin-left: -630px;
+ }
+ .patron2img{
+    position: absolute;
+    margin-top: -680px;
+    margin-left: 750px;
+ }
